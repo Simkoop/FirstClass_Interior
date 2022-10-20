@@ -30,4 +30,4 @@ The purpose of our compnay is to develope software solutions for clients to thei
 
 ## Credits
 
-<img src="images/credits.png" alt="creadits">
+<img src="images/credits.png" alt="credits">
